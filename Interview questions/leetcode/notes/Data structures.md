@@ -21,3 +21,4 @@ const cons = <A>(head: A, tail: List<A>): List<A> = ({
 	tail
 })
 ```
+
