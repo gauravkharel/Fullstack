@@ -1,3 +1,4 @@
+polyfill meaning implementing the same thing again with the basics
 ##### forEach polyfill
 
 ```

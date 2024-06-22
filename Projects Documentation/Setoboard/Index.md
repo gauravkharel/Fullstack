@@ -13,4 +13,4 @@ Creating a fullstack app with express and, next. Creating a directory for common
 
 Websocket:
 
-[[Websocket]]
+[[WebRTC]]
