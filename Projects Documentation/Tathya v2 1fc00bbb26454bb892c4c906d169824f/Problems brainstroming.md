@@ -57,3 +57,9 @@ module.exports = verifyJWT;
 
 What I want is somehow, the user gets the userId in the request. I don't know how to do it?
 
+
+### Listing now needed features.
+1. Filters in product page. 
+2. And making the order flow. 
+3. Adding picture using EC2 Instance. 
+4. Making deployment now. 
