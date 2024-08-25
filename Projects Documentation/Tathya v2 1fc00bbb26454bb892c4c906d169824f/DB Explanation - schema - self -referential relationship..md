@@ -73,3 +73,5 @@ const subcategories = await prisma.category.findMany({
 
 To get a full tree of categories, you might need to implement a recursive function or use a library that supports recursive queries with Prisma.
 
+
+I got this but, it will still be a challenge to proceed with rendering in the frontend. But a good funky challenge. 

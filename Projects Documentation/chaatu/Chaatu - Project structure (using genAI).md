@@ -4,6 +4,7 @@
 - Project goals and objectives
 - Target audience
 - Project scope and limitations
+- End-to-end encryption, I want to expore how that is done so, I am creating that on my own. I've been heavily invested in learning that but, I am not even aware of how exactly things work. Learn it along the way. 
 
 #### Project Structure
 
