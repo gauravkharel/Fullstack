@@ -6,30 +6,23 @@ Last edited time: September 3, 2023 11:23 AM
 Status: Not started
 
 ## Values, Types, and, operators
-
-Values
-
-     Numbers
-
-Arithmetic (1 + 2 ⇒ 3)
-
-Special Number (1.23)
-
-Strings (”aiudsaiugia”, ‘what is wrong with you’)
-
-Unary Operators ()
-
-Boolean Values
-
-Comparison (<, >, ==, ===)
-
-Logical Operators(&&, ||), Ternary Operators (console.log(true ? 1 : 2))
-
-Empty Values (null, undefined)
-
-Automatic Type Conversion [ `(console.log(8 * null)) ⇒ 0`, `(console.log(null == 0)) ⇒ false`, `(console.log(null == 0)) => false]`  ⇒ Some javascript disgusting behaviours
-
-Short-circuiting of Logical Operators [ `(console.log(”Agnes” || “user”)) ⇒ Agnes` ] ⇒ 
+1. Values
+2. Numbers
+	1. Arithmetic (1 + 2 ⇒ 3)
+	2. Special Number (1.23)\
+3. Strings (”aiudsaiugia”, ‘what is wrong with you’)
+4. Unary Operators ()
+5. Boolean Values
+6. Comparison (<, >, ==, ===)
+7. Logical Operators(&&, ||), Ternary Operators (console.log(true ? 1 : 2))
+8. Empty Values (null, undefined)
+9. Automatic Type Conversion
+```
+(console.log(8 * null)) ⇒ 0
+(console.log(null == 0)) => false
+```
+10. Short-circuiting of Logical Operators 
+```(console.log(”Agnes” || “user”)) ⇒ Agnes```
 
 ## Program Structure
 

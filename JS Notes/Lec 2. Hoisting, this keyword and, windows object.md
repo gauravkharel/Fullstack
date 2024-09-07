@@ -7,12 +7,9 @@ During memory execution, all the declaration are moved to the top of their scope
     - function declaration are acanned and, made available.
 
 Hoisting basically means allocating memory.
-
 - a normal function store in memory as
     - getName: fn getName()
 - an arrow function is stored as a variable
     - getName: undefined
-
-![Untitled](Fullstack/JS%20Notes/Lec%202%20Hoisting,%20this%20keyword%20and,%20windows%20object%2021209da1c72f4408ae8b908d3dd8b8d1/Untitled.png)
-
+![[JS Notes/Lec 2 Hoisting, this keyword and, windows object 21209da1c72f4408ae8b908d3dd8b8d1/Untitled.png]]
 Every EC has its own memory and, environment running separately independent from each other

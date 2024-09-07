@@ -51,9 +51,9 @@ var a =20
 
 ### const/let is lexical scope which finds the nearest declaration and, follows lexical scope chain pattern.
 
-| js function/variable | scope |
-| --- | --- |
-| var/const | block scope |
-| function declaration | function scope |
+| js function/variable                    | scope                                           |
+| --------------------------------------- | ----------------------------------------------- |
+| var/const                               | block scope                                     |
+| function declaration                    | function scope                                  |
 | function expression (const x = () ⇒ {}) | scope of the declared variable i.e. block scope |
-| arrow function  | lexical scope |
+| arrow function                          | lexical scope                                   |

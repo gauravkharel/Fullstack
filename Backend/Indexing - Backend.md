@@ -15,4 +15,5 @@
 15. [ ] Load Balancers
 16. [ ] CAP Theorem
 17. [ ] Testing Node.js Apps in 2023
-18. [x] Real time communication, basics of WebRTC[[WebRTC]]
+18. [x] Real time communication, basics of WebRTC[[WebRTC]
+19. [ ] Node js event loop and event emitter [[Node JS - Event Loop and Event Emitter]]
