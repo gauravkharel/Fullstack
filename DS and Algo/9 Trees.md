@@ -28,3 +28,4 @@ by 1. recurseLeft 2. recurseRight 3. post order recursion
 Steps usually involves: visitNode() which recurse in the given three ways. 
 In postOrder, the tree is already traverse. 
 
+![[Pasted image 20240914075744.png]]
