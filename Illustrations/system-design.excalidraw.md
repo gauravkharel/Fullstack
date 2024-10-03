@@ -1,3 +1,498 @@
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+# Excalidraw Data
+## Text Elements
+Order book
+Front-tier client ^IltPc7Pc
+
+Application ^QH5Xfniw
+
+1. Authentication
+2. Client Logging
+3. Tracking Id
+4. HTTPS 
+5. Analytics ^JGBx3QOQ
+
+Requests ^KFw5y6xA
+
+Templates ^AmbU52p3
+
+API responses ^lEu8SrQD
+
+Core 
+Components ^4aWTnBjK
+
+Custom components ^lKycPemJ
+
+Rendering engine ^AZvtWQqt
+
+1. Accessibility
+2. Design consistency
+3. Theming ability
+4. Reusability
+5. Customisability
+6. Extendability ^PhywYR9v
+
+SDK ^CLcM9hk6
+
+Server side rendering
+1. Faster page load
+2. Better SEO
+3. Increases complexity
+
+
+Client side rendering
+ 1. Modular architecture
+2. Less complex
+3. Low Response payload
+
+
+ ^L4Yw3Y8b
+
+Deployment ^tNMqL2uA
+
+Before choosing frontend frameworks
+1. Popularity
+2. Core features
+3. Flexibility
+4. Ease of integration
+5. SSR support
+6. Mobile support
+7. Community
+8. Future support
+9. Market Adoption ^8oxsfD6x
+
+Order book ^5sqfstXO
+
+Buy bitcoin ^TnmgHMQc
+
+Buy bitcoin ^F34PCUY8
+
+Sell bitcoin ^3Q8q1aBm
+
+Sell bitcoin ^FCousCEy
+
+Amount ^POu4nRNc
+
+Amount ^HKYdRFOv
+
+Amount ^3a4lf05A
+
+Amount ^qFuVF1PB
+
+Buy now ^gOEHCI1d
+
+Buy now ^pg4JwY5X
+
+Sell now ^DwnB4z38
+
+Sell now ^gwZW2OA6
+
+10 BTC ^4lE32FMn
+
+10 BTC ^s9WmVDtl
+
+5 BTC ^ysUME3Oj
+
+5 BTC ^Q10098rH
+
+Order forms ^NqLNC3mi
+
+Design question ^nBLCvmn7
+
+Low level Design ^E97fqA5b
+
+Amount ^G8nzOlvb
+
+Amount ^VcgXqmzu
+
+Price USD ^WcMmUM0D
+
+Price USD ^NCMHj5cf
+
+1.00 ^hlYn0BKa
+
+1.00 ^Z7PBQvvm
+
+2.00 ^LSi1K22D
+
+2.00 ^fdda96hG
+
+1.02 ^ZnjRpWTG
+
+1.02 ^1uaYwmsV
+
+1.10 ^Ll2rH0RR
+
+1.10 ^UXDuK8k4
+
+4.02 ^kYYl1oyn
+
+4.02 ^d3xgZAGE
+
+1.50 ^QS1M2l7v
+
+1.50 ^3Wwt3Wy5
+
+5.00 ^svt84GAz
+
+5.00 ^cJpHGS49
+
+1.90 ^MyJoyU9e
+
+1.90 ^FwIarNna
+
+50.00 ^5HAdouP9
+
+50.00 ^SAHnUB3G
+
+3.50 ^zRV87ny3
+
+3.50 ^cG7nGds5
+
+40500 ^koY62xH0
+
+40500 ^uud7QQpo
+
+40100 ^47YywfuS
+
+40100 ^dfNadUAx
+
+40010 ^zJJtPPrx
+
+40010 ^dDH6Az9E
+
+40030 ^PLDhxRZI
+
+40030 ^aY7wpD4M
+
+39900 ^diqs6kOD
+
+39900 ^p2a4hYgA
+
+40010 ^U7foIK0p
+
+40010 ^WiwgyZkX
+
+39600 ^fAOzTQ3a
+
+39600 ^NW0eBWgT
+
+40000 ^EYmMxwCd
+
+40000 ^IQ4NkanB
+
+38700 ^MQusiBOy
+
+38700 ^V2Pyf6x3
+
+37700 ^hTIiRCdQ
+
+37700 ^Hpg4RX87
+
+Tech stack ^4f9zVKxn
+
+Pseudo code ^1nhyE7Ix
+
+React ^MCLhrsVo
+
+Jest ^w2WYDwyh
+
+React
+Testing 
+library ^ZL4WYLuu
+
+Eslint ^Tn811I53
+
+Cypress ^Afz0wDXV
+
+Redux ^WogZ0xhP
+
+UI library ^1EQhRD7A
+
+Axios ^6kYJnVsZ
+
+GraphQL ^SZnIzK2T
+
+Apollo ^SDF4SNOo
+
+Beaver 
+logger ^HlYSq8mq
+
+Splunk ^Nr7dKjri
+
+Jenkins ^PuJ5DNMs
+
+Web hooks ^vWZ69gtm
+
+nodemailer ^VwFTRutY
+
+Material UI ^TZd2NHA7
+
+{
+  type: 'buy'
+  amount: 10,
+  currency: 'usd',
+  asset: 'btc',
+  price: 40010,
+}
+  
+   ^8snyrSPK
+
+{
+  type: 'buy'
+  amount: 10,
+  currency: 'usd',
+  asset: 'btc',
+  price: 40010,
+}
+  
+   ^9QGyOxgP
+
+{
+  type: 'sell'
+  amount: 5,
+  currency: 'usd',
+  asset: 'btc',
+  price: 40000,
+}
+  
+   ^bwc0BJDm
+
+Buy request ^zWOjWPhZ
+
+Sell request ^aN4vDv8q
+
+BuyOrderForm ^mef614VI
+
+BuyOrderLabel ^4CrpolRt
+
+SellOrderLabel ^RBgvSPeX
+
+SellOrderForm ^gHZKNS3D
+
+SellPriceList
+Descending order ^c7B0x9AO
+
+BuyPriceList
+Ascending order ^lHNussYa
+
+SellAmountList ^qrVa7Iat
+
+BuyAmountList ^4HQ8g1Cm
+
+AmountInputBox ^nfGRNtbh
+
+AmountInputBox ^Ye0lXpn5
+
+BuyButton ^MqKitCUv
+
+SellButton ^UQtp4Suy
+
+HOC ^1Gf2tNkY
+
+Sequence
+1. Tech stack
+2. Components
+3. Data structure
+4. Pseudo code ^Fn53UiUk
+
+
+  [ 
+    {
+      type: 'sell',
+      amount: 1.90,
+      price: 40000,
+      currency: 'usd'  
+    },
+    {
+      type: 'sell',
+      amount: 1.50, 
+      price: 40000,
+      currency: 'usd'  
+    },
+    {
+      type: 'buy',
+      amount: 5.00, 
+      price: 39600,
+      currency: 'usd'  
+    },
+  ] ^KEprqL2j
+
+
+  [ 
+    {
+      type: 'sell',
+      amount: 1.90,
+      price: 40000,
+      currency: 'usd'  
+    }
+    ...
+  ] ^hnZCxdnf
+
+btc: ^ysUABA9D
+
+unsorted ^RHban5At
+
+function OrderForm ({asset, amount, type, handleClick}) {
+ 
+  return (
+    <div>
+        <OrderLabel>{type} {asset} </OrderLabel/>
+        <AmountInputBox type="number" value={amount} asset={asset} />
+        <Button onClick={handleClick} type={type} >{type} now</Button> 
+    </div>
+  )
+
+} ^bVt4HS3w
+
+function OrderBook ({}) {
+
+const [orders, setOrders] = useState([]);
+
+ useEffect(()=>{
+   // fetch the orders every 1 second  
+   // Update state
+}, [])  
+
+  return (
+    <div>
+        <SellBook />
+        <BuyBook />
+    </div>
+  )
+
+} ^gyvviwsD
+
+Design the frontend of a cryptocurrency exchange orderbook 
+with buy and sell Bitcoin as the options to the trader. ^LypBIDi3
+
+Interviewer's expectations ^9V361kOm
+
+1. Create a block diagram for the question given.
+2. Ability to choose one tech stack over another.
+3. Create API schema for backend communication.
+4. Ability to identify the edge scenarios.
+5. Ability to identify components in the UI.
+6. Write pseudo code for potential implementation.
+7. Explain the approach along the way.
+8. Confidence in the approach chosen.
+9. Take account of testing, code quality & maintainability.
+10. How are you deploying the frontend components.    ^8RZijUFe
+
+Order book
+front-tier client ^eOwvgTXR
+
+Order book 
+Mid-tier service ^7WPnH6qS
+
+Order book 
+database client ^k9wemLKe
+
+getOrderBookData('btc') ^uFKP8i8c
+
+getOrderBookData('btc') ^MEr0Fn0H
+
+Request ^kxoMU8pC
+
+Request ^IlxkjHch
+
+Request ^HBK98cSK
+
+Transformed Response ^Y3qqVM6n
+
+Response ^ddgdq6Ps
+
+Login ^SaBkJoc0
+
+Buy BTC ^l7Ye89rX
+
+placeBuyOrder() ^qChWOUGb
+
+placeBuyOrder();
+ ^KYVCzqcu
+
+placeSellOrder(); ^6dh6m6zC
+
+DB ^yEQDKdnR
+
+DB ^w218N6Rp
+
+Sequence diagram ^oiAgVWd4
+
+Response ^7XD5vjvY
+
+user ^oUsjiemq
+
+user ^TSJgS1b2
+
+user ^66JuXh1I
+
+HLD ^4nv5s0dt
+
+LLD ^7iZhvwgp
+
+1. Signifies the overall system.
+2. States concise functionality of each component.
+3. Also called macro-level design.
+4. Developed by Solution Architect.
+5. HLD is created before the LLD.
+6. Converts requirements into solution.
+7. Necessary to understand the system.
+ ^Hnhr9LJy
+
+1. Describes the components of HLD
+2. States the logic of the components used.
+3. Also called micro-level design
+4. Developed by software developers.
+5. Developed after HLD is completed.
+6. Changes HLD into comprehensive solution.
+7. Describes configurations & trouble shooters.
+ ^wtfWnSfU
+
+Order book 
+Mid-tier service ^ITnI30T6
+
+Order book 
+database client ^ZlKtE0mv
+
+Template based rendering ^yayReYu8
+
+High level design ^XDMjan6j
+
+[
+  {
+    component: "heading",
+    value: "Buy bitcoin",
+    
+  },
+  {
+    component: "input",
+    type: "number",
+    value: 10,
+    heading: "Amount",
+    label: "BTC"
+  },
+  {
+    component: "button",
+    value: "Buy now",
+  }
+] ^VT93XXl6
+
+Template for Buy order ^c1fVKQGl
+
+Considerations ^chN3FGqO
+
+CI / CD ^BzfaNox7
+
+## Drawing
+```json
 {
 	"type": "excalidraw",
 	"version": 2,
@@ -11318,3 +11813,5 @@
 	},
 	"files": {}
 }
+```
+%%

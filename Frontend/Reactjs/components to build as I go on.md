@@ -53,7 +53,7 @@
     - Implements dynamic language switching
     - Teaches about localization and dynamic content rendering
 
-12. Error Boundary Component
+		1. Error Boundary Component
     - Implements custom error handling and logging
     - Uses React's error boundary feature
     - Teaches about error management and fallback UI
