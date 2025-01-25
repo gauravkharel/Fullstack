@@ -1,0 +1,6 @@
+- Learn about how the system scales
+- How we can design a system
+- How we make decisions
+- What decision for what need
+- How many types of organization are there
+- (MNCs, Big Tech, Small Startups)
